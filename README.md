@@ -55,3 +55,7 @@
 - **Critical Reflection**:
   - **Methodological Limitation**: The current MRF (Moving Reference Frame) approach provides a time-averaged performance metric but inherently fails to capture transient Rotor-Stator Interaction (RSI).
   - **Future Advancement**: To analyze off-design performance and pressure pulsations, a transient Sliding Mesh simulation is required for higher-fidelity results.
+ 
+### 4. References & Theoretical Foundation/Citation
+* The theoretical framework and fundamental principles governing the fluid dynamics and numerical methodologies in this study were referenced from:
+  * **Versteeg, H. K., & Malalasekera, W. (2007).** *An Introduction to Computational Fluid Dynamics: The Finite Volume Method* (2nd ed.). Pearson Education.
